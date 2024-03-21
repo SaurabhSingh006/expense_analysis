@@ -18,6 +18,8 @@ dependencies:
   google_sign_in: ^6.2.1
   http: ^1.2.1
   firebase_database: ^10.4.10
+  delayed_display: ^2.0.0
+  fl_chart: ^0.66.2
 
 dev_dependencies:
   flutter_test:
